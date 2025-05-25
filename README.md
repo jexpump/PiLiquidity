@@ -40,7 +40,7 @@ See the [architecture diagram](./PiLiquidity_Architecture_Diagram.png) for more 
 - [`PiLiquidity_Investor_Pitch_Deck.pdf`](./PiLiquidity_Investor_Pitch_Deck.pdf)
 - [`LICENSE`](./LICENSE)
 - [`REPO_SETUP.md`](./REPO_SETUP.md)
-- 
+- - PiLiquidity_Future_Vision.md
 ---
 
 ## 🌍 Contributing
