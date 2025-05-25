@@ -41,6 +41,7 @@ See the [architecture diagram](./PiLiquidity_Architecture_Diagram.png) for more 
 - [`LICENSE`](./LICENSE)
 - [`REPO_SETUP.md`](./REPO_SETUP.md)
 - [PiLiquidity_Future_Vision.md](PiLiquidity_Future_Vision.md)
+- [PiLiquidity_Universal_Vision.md](PiLiquidity_Universal_Vision.md)
 ---
 
 ## 🌍 Contributing
